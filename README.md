@@ -11,6 +11,8 @@
 This Power BI report presents a comprehensive, interactive analysis of key performance indicators across relevant business dimensions. It includes time-based comparisons, advanced DAX measures, and segmentation insights to help decision-makers understand trends and performance drivers.
 
 ---
+--<img src="Scp_Dashboard.png" height=600px width="1250px">-
+
 
 ## 🧩 Data Model Overview
 
